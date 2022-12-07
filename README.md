@@ -16,4 +16,3 @@ Clone this repo to your plugin folder (usually in $HOME/.vim/bundle/)
 
 #### Dependencies
 - Fugitive
-- 

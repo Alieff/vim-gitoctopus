@@ -1,5 +1,5 @@
 # Feature
-Vim version of GitKraken. 
+Vim version of [GitKraken](https://www.gitkraken.com/). 
 (Forked from [gv.vim](https://github.com/junegunn/gv.vim))
 
 #### Demo
@@ -16,3 +16,4 @@ Clone this repo to your plugin folder (usually in $HOME/.vim/bundle/)
 
 #### Dependencies
 - Fugitive
+- 
